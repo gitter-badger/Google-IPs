@@ -1,4 +1,5 @@
 ## Google 全球 IP 地址库
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/flyfly6/Google-IPs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 =====>> [宽屏查看](./README.md) <<=====
 
